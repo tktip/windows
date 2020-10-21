@@ -1,6 +1,6 @@
 // +build windows
 
-package log
+package hooks
 
 import (
 	"github.com/kardianos/service"
